@@ -10,7 +10,9 @@ GV Home Office is a fully functional CRM system for small businesses that runs *
 
 ## 🛡️ Security & Trust
 Security is our top priority. The software is designed to operate in an isolated environment.
-* **Verified:** GV Home Office has been scanned and cleared by Microsoft and Google security systems. [View verification screenshots](images/Microsoft_REDLINE.jpg)(images/Googl.jpg)
+* **Verified:** GV Home Office has been scanned and cleared by Microsoft and Google security systems:
+![Microsoft Verification](images/Microsoft_REDLINE.jpg)
+![Google Verification](images/Googl.jpg)
 
 ## 📥 Download
 Download the latest version of the system:
