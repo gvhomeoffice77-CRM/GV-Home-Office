@@ -1,5 +1,7 @@
 # GV Home Office
 **Your Private Offline CRM System**
+🌐 **Official Website:** [https://gv-ho.net/](https://gv-ho.net/)  
+*Visit our website for the latest updates, news, and full project information.*
 
 GV Home Office is a fully functional CRM system for small businesses that runs **completely locally**. No cloud servers, no internet dependency, and no subscriptions. You retain 100% ownership of your data.
 
