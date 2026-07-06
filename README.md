@@ -32,5 +32,5 @@ Need help getting started? Watch our tutorials to set up your system:
 ---
 
 ## ⚖️ License
-**Copyright © 2026 Vadim. All rights reserved.**
+**Copyright © 2026 Vlad. All rights reserved.**
 This software is proprietary. You are not allowed to distribute, modify, or use the source code for commercial purposes without explicit permission from the author.
