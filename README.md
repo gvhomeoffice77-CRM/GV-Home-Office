@@ -17,9 +17,9 @@ Security is our top priority. The software is designed to operate in an isolated
 ## 📥 Download CRM
 Download the necessary components for GV Home Office:
 
-* **[Full CRM System](ЗДЕСЬ_ССЫЛКА_НА_GV-HO.zip)**
-* **[Network Control Module](ЗДЕСЬ_ССЫЛКА_НА_NetControl.zip)**
-* **[Test Database](ЗДЕСЬ_ССЫЛКА_НА_Test_DB.zip)**
+* **[Full CRM System](https://github.com/gvhomeoffice77-CRM/GV-Home-Office/releases/download/v1.0.1/GV-HO.zip)**
+* **[Network Control Module](https://github.com/gvhomeoffice77-CRM/GV-Home-Office/releases/download/v1.0.1/NetControl.zip)**
+* **[Test Database](https://github.com/gvhomeoffice77-CRM/GV-Home-Office/releases/download/v1.0.1/Test_DB.zip)**
 * **[Call Station App (APK)](https://github.com/gvhomeoffice77-CRM/GV-Home-Office/releases/download/v1.0.1/callstation.apk)**
 
 ## 🎥 Video Tutorials
