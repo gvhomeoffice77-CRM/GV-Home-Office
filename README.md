@@ -14,9 +14,13 @@ Security is our top priority. The software is designed to operate in an isolated
 ![Microsoft Verification](images/Microsoft_REDLINE.jpg)
 ![Google Verification](images/Googl.jpg)
 
-## 📥 Download
-Download the latest version of the system:
-**[Download GV Home Office](ССЫЛКА_НА_ВАШ_RELEASES)**
+## 📥 Download CRM
+Download the necessary components for GV Home Office:
+
+* **[Full CRM System](ЗДЕСЬ_ССЫЛКА_НА_GV-HO.zip)**
+* **[Network Control Module](ЗДЕСЬ_ССЫЛКА_НА_NetControl.zip)**
+* **[Test Database](ЗДЕСЬ_ССЫЛКА_НА_Test_DB.zip)**
+* **[Call Station App (APK)](ЗДЕСЬ_ССЫЛКА_НА_callstation.apk)**
 
 ## 🎥 Video Tutorials
 Need help getting started? Watch our tutorials to set up your system:
